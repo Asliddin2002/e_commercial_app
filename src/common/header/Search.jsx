@@ -14,7 +14,8 @@ const Search = ({ CartItem }) => {
       <section className='search'>
         <div className='container c_flex'>
           <div className='logo width '>
-            <img src={logo} alt='' />
+            {/* <img src={logo} alt='' /> */}
+            KhoAs
           </div>
 
           <div className='search-box f_flex'>
